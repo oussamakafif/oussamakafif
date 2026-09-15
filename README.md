@@ -1,15 +1,19 @@
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Oussama%20Kafif&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/IMG_20260211_094524.jpg" width="160px" style="border-radius: 50%;" alt="Oussama Kafif Profile Picture" />
+  <img src="./IMG_20260211_094524.jpg" width="180px" style="border-radius: 50%; object-fit: cover;" alt="Oussama Kafif" />
 </p>
 
 <p align="center">
   <b>Mobile Developer (Flutter / iOS / Android) • Cybersecurity Student at USTHB</b><br>
   📍 Algiers, Algeria 🇩🇿
 </p>
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oussama-kafif-31558a320/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
