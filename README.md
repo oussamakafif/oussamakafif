@@ -1,13 +1,14 @@
 <p align="center">
-  <h1 align="center">Oussama Kafif</h1>
-  <p align="center">
-    <b>Mobile Developer (Flutter / iOS / Android) • Cybersecurity Engineering Student at USTHB</b><br>
-    📍 Algiers, Algeria 🇩🇿
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Oussama%20Kafif&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/oussama-kafif-31558a320](https://www.linkedin.com/in/oussama-kafif-31558a320/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <b>Mobile Developer (Flutter / iOS / Android) • Cybersecurity Student at USTHB</b><br>
+  📍 Algiers, Algeria 🇩🇿
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oussama-kafif-31558a320/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:oussamakf2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -26,7 +27,7 @@ I'm a Mobile Developer specializing in **Flutter & Dart**, currently studying **
 
 | 📱 3+ | 🔐 100% | 🎯 2+ | 👥 1,000+ |
 | :-: | :-: | :-: | :-: |
-| **Mobile Apps** | **Security Focused** | **Hackathons Organized** | **Students Impacted at CSE** |
+| **Mobile Apps** | **Security Focused** | **Hackathons Co-Organized** | **Students Impacted at CSE** |
 
 ---
 
@@ -46,6 +47,7 @@ I'm a Mobile Developer specializing in **Flutter & Dart**, currently studying **
 | **DataHack App** | Mobile app built solo to run CSE's flagship hackathon end-to-end with real-time Firebase syncing. | Flutter • Firebase Auth • Firestore | <img src="https://img.shields.io/badge/-Production-success?style=flat-square" /> | [Repo](https://github.com/oussamakafif) |
 | **USTHB Docs** | Multi-platform document sharing system for university students with a 3-role permission engine. | Flutter • Supabase • PostgreSQL • React | <img src="https://img.shields.io/badge/-Active-blue?style=flat-square" /> | [Repo](https://github.com/oussamakafif) |
 | **Gestion des Médias** | Console media management system for Movies, TV Series, and Documentaries. | Java • Object-Oriented Programming | <img src="https://img.shields.io/badge/-Completed-green?style=flat-square" /> | [Repo](https://github.com/oussamakafif/Gestion-des-Media-JAVA) |
+| **Student Management** | Desktop application built with MVC architecture and SQL Server backend. | Java • Swing • SQL Server | <img src="https://img.shields.io/badge/-Completed-green?style=flat-square" /> | [Repo](https://github.com/oussamakafif) |
 
 ---
 
